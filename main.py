@@ -1,2 +1,3 @@
 print("=== Mon assistant de revesion ===")
-print("Bienvenue dans le programme")
+nom=input("quel est votre prenom?")
+print(f"Bienvenue {nom} !bon courage pour tes revesions ")
